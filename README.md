@@ -10,7 +10,7 @@ I'm passionate about software development, open source and community building. M
 ## GitHub statistics
 
 
-- 👀 My profile has been viewed ![](https://komarev.com/ghpvc/?username=your-github-username)
+- 👀 My profile has been viewed ![](https://komarev.com/ghpvc/?username=TimotheeGrn)
 
 
 Feel free to explore my repositories and contact me to discuss collaborations or new ideas!
