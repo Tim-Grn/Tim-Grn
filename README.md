@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bienvenue sur mon profil GitHub !
 
-<!--
-**TimotheeGrn/TimotheeGrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis le CEO de Yueag Corp et le créateur de Mystic Cloud. 🌥️
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis passionné par le développement logiciel, l'open source et la construction de communautés. Mon projet actuel, Mystic Cloud, offre un service de cloud gratuit basé sur Nextcloud.
+
+## Statistiques GitHub
+
+- 👀 Mon profil a été vu **{{ VISITOR_COUNT }}** fois.
+
+N'hésitez pas à explorer mes dépôts et à me contacter pour discuter de collaborations ou de nouvelles idées !
+
+Merci de visiter mon profil ! 😊
