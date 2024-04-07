@@ -2,8 +2,8 @@
 
 ## About me
 
-*I'm passionate about cybersecurity and open source.
-*I live close to Rennes in France.
+I'm passionate about cybersecurity and open source.\n
+I live close to Rennes in France.
 
 
 
