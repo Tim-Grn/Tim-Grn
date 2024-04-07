@@ -1,15 +1,20 @@
-# Bienvenue sur mon profil GitHub !
+# Welcome on my Github page!
 
-Je suis le CEO de Yueag Corp et le créateur de Mystic Cloud. 🌥️
 
-## À propos de moi
+## About me
 
-Je suis passionné par le développement logiciel, l'open source et la construction de communautés. Mon projet actuel, Mystic Cloud, offre un service de cloud gratuit basé sur Nextcloud.
 
-## Statistiques GitHub
+I'm passionate about software development, open source and community building. My current project, Mystic Cloud, offers a free cloud service based on Nextcloud.
 
-- 👀 Mon profil a été vu **{{ VISITOR_COUNT }}** fois.
 
-N'hésitez pas à explorer mes dépôts et à me contacter pour discuter de collaborations ou de nouvelles idées !
+## GitHub statistics
 
-Merci de visiter mon profil ! 😊
+
+- 👀 My profile has been viewed ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
+Feel free to explore my repositories and contact me to discuss collaborations or new ideas!
+
+
+Thank you for visiting my profile! 😊
+
