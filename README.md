@@ -1,13 +1,13 @@
-# Welcome on my Github page!
+# Hi there
 
 ## About me
 
-I'm passionate about cybersecurity and open source.<br>
-I live close to Rennes in France.
+* Rennes
+* Cybersecurity
 
 
 
-## GitHub statistics
+## Stats
 
 
 - 👀 ![](https://komarev.com/ghpvc/?username=TimotheeGrn)
